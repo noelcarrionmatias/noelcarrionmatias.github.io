@@ -41,4 +41,4 @@ Análisis espacial y proyectos basados en datos geográficos.
 ## Enlaces
 
 - GitHub: https://github.com/noelcarrionmatias
-- LinkedIn: [TU_LINKEDIN](https://www.linkedin.com/in/noelcarrionmatias/)
+- LinkedIn: https://www.linkedin.com/in/noelcarrionmatias/
