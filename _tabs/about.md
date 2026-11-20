@@ -6,37 +6,19 @@ order: 1
 
 # Noel Carrión Matías
 
-Analista y apasionado de los datos con interés en:
+Bienvenido a mi portfolio de datos.
 
-- Data Analytics
-- Data Engineering
-- Geospatial Analytics
+Soy analista de datos con interés en Geospatial Analytics, Data Analytics y Data Engineering. Me gusta transformar datos en información útil para entender que sucede mediante procesos de análisis, visualizaciones y automatización utilizando herramientas de código abierto y tecnologías orientadas a los datos.
 
-Trabajo con tecnologías como:
+## Tecnologías
 
-- Python
-- SQL
-- Power BI
-- Pandas
-- Git
-- Jupyter Notebooks
-- QGIS
+Mi trabajo se centra en la aplicación de herramientas y tecnologías para la extracción de conocimiento a partir de los datos.
 
-Este portfolio reúne proyectos desarrollados para explorar, analizar y transformar datos en información útil para la toma de decisiones.
+Utilizo **Python** y su ecosistema de librerías para análisis y visualización de datos, **SQL** sobre motores como **MySQL**, **PostgreSQL** y **SQLite** para la gestión y consulta de información, y herramientas de análisis geoespacial como **QGIS** y **GeoPandas**. También desarrollo dashboards e informes interactivos con **Power BI** y gestiono proyectos mediante **Git** y **GitHub**.
 
-## Áreas principales
+## Objetivo del portfolio
 
-### Data Analytics
-
-Análisis exploratorio, visualización de datos y creación de dashboards.
-
-### Data Engineering
-
-Procesos ETL, transformación de datos y automatización.
-
-### Geospatial Analytics
-
-Análisis espacial y proyectos basados en datos geográficos.
+Este portfolio recopila proyectos personales, académicos y técnicos desarrollados para explorar, analizar y transformar datos en información útil para la toma de decisiones.. Muestro tanto los resultados como la metodología y herramientas utilizadas en cada uno de los proyectos.
 
 ## Enlaces
 
