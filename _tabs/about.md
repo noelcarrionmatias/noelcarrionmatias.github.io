@@ -1,8 +1,44 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: Sobre mí
+icon: fas fa-user
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Noel Carrión Matías
+
+Analista y apasionado de los datos con interés en:
+
+- Data Analytics
+- Data Engineering
+- Geospatial Analytics
+
+Trabajo con tecnologías como:
+
+- Python
+- SQL
+- Power BI
+- Pandas
+- Git
+- Jupyter Notebooks
+- QGIS
+
+Este portfolio reúne proyectos desarrollados para explorar, analizar y transformar datos en información útil para la toma de decisiones.
+
+## Áreas principales
+
+### Data Analytics
+
+Análisis exploratorio, visualización de datos y creación de dashboards.
+
+### Data Engineering
+
+Procesos ETL, transformación de datos y automatización.
+
+### Geospatial Analytics
+
+Análisis espacial y proyectos basados en datos geográficos.
+
+## Enlaces
+
+- GitHub: https://github.com/noelcarrionmatias
+- LinkedIn: [TU_LINKEDIN](https://www.linkedin.com/in/noelcarrionmatias/)
